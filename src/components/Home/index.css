@@ -1,0 +1,39 @@
+.Heading {
+  font-family: 'roboto';
+  font-size: 28px;
+  font-weight: 600;
+}
+.Description {
+  font-family: 'roboto';
+  font-size: 12px;
+  font-weight: 600;
+  color: #475569;
+}
+.shopNowButton {
+  background-color: #0967d2;
+  margin-top: 30px;
+  height: 24px;
+  border: none;
+  border-radius: 04px;
+  height: 24px;
+  width: 100px;
+  color: white;
+  cursor: pointer;
+}
+.HomeContainer {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+.HeadContainer {
+  width: 30%;
+  margin-right: 10%;
+  margin-top: 6%;
+}
+.imageContainer {
+  width: 50%;
+}
+.image {
+  height: 80%;
+  width: 90%;
+}

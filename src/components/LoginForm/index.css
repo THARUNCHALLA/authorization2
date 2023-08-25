@@ -1,0 +1,43 @@
+.loginContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+}
+.websiteLogin {
+  height: 20%;
+  width: 40%;
+}
+.formContainer {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 300px;
+  padding: 30px;
+  margin-left: 200px;
+}
+label {
+  color: #475569;
+  font-family: 'roboto';
+  font-weight: 12px;
+  font-weight: 600;
+}
+.userInputContainer {
+  margin: 20px;
+}
+input {
+  margin-top: 10px;
+  outline: none;
+  border: none;
+  height: 24px;
+  width: 200px;
+  background-color: #d7dfe9;
+  padding: 04px;
+}
+.hara {
+  margin-top: 0px;
+  margin-left: 20px;
+}
+.errorMsg {
+  font-family: 'roboto';
+  font-size: 14px;
+  font-weight: 700;
+}

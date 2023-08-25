@@ -1,0 +1,33 @@
+.HeaderContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.AnotherContainerInHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.websiteLogo {
+  height: 40px;
+  width: 100px;
+  margin-left: 20px;
+}
+.description {
+  font-family: 'roboto';
+  font-size: 14px;
+  font-weight: 700;
+  list-style-type: none;
+  color: #64748b;
+  margin-right: 20px;
+}
+.button {
+  background-color: #0b69ff;
+  color: white;
+  height: 28px;
+  border: none;
+  width: 130px;
+  border-radius: 04px;
+  cursor: pointer;
+  margin-right: 20px;
+}
